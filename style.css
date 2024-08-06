@@ -171,9 +171,11 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 400px;
-  width: 400px;
-  margin: auto 0;
+  height: 150px;
+  width: 150px;
+ 
+  
+  
 }
 
 .section__text {
